@@ -18,10 +18,6 @@ This section contains product manual content for each component in Camunda 8, in
 - [Tasklist](tasklist/introduction-to-tasklist.md) - Implement business processes alongside user tasks in Zeebe, and orchestrate human workflows critical to your business to reduce time-to-value for your process orchestration projects with this interface for manual work.
 - [Optimize]($optimize$/components/what-is-optimize) - Geared toward business stakeholders, Optimize offers business intelligence tooling for Camunda enterprise customers. By leveraging data collected during process execution, users can collaboratively examine areas in business processes for improvement.
 
-:::note
-Additionally, Camunda hosts a section of [Best Practices](./best-practices/best-practices-overview.md). A mix of conceptual and practical implementation information, this section hosts our condensed experience using BPMN and DMN on the Camunda tool stack collected by consulting engagement with our customers and feedback from the community.
-:::
-
 ![Architecture diagram for Camunda including all the components for SaaS](./img/ComponentsAndArchitecture_SaaS.png)
 
 :::note Looking for deployment guides?

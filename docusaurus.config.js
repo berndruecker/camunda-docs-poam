@@ -110,6 +110,12 @@ module.exports = {
         },
         {
           type: "doc",
+          docId: "advice/advice-overview",
+          label: "Practical Advice",
+          position: "left",
+        },
+        {
+          type: "doc",
           docId: "apis-tools/working-with-apis-tools",
           label: "APIs & Tools",
           position: "left",

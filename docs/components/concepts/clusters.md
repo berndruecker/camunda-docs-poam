@@ -8,7 +8,7 @@ A cluster is a provided group of nodes that run Camunda 8. By default, Camunda 8
 
 Enterprise plan customers can create as many production or development clusters as they want. Starter plan customers are limited based on the [fair usage limits of the plan](https://camunda.com/legal/fair-usage-limits-for-starter-plan/).
 
-Production clusters come in three sizes: small (S), medium (M), and large (L). To learn more about the size of cluster best suited for your use case, refer to our [Best Practices](/components/best-practices/best-practices-overview.md) for more information on [sizing your runtime environment](/components/best-practices/architecture/sizing-your-environment.md#sizing-your-runtime-environment).
+Production clusters come in three sizes: small (S), medium (M), and large (L). To learn more about the size of cluster best suited for your use case, refer to our [Best Practices](/advice/best-practices/best-practices-overview.md) for more information on [sizing your runtime environment](/advice/best-practices/architecture/sizing-your-environment.md#sizing-your-runtime-environment).
 
 The following table shows each plan and available type or size of cluster:
 

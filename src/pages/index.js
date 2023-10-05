@@ -30,6 +30,12 @@ const features = [
     ),
   },
   {
+    title: "Practical Advice",
+    imageUrl: "img/components.png",
+    url: "/docs/advice/",
+    description: <>Blabla.</>,
+  },
+  {
     title: "APIs & Tools",
     imageUrl: "img/apisclients.png",
     url: "/docs/apis-tools/working-with-apis-tools/",

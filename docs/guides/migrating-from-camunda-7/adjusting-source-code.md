@@ -9,7 +9,7 @@ Camunda 8 has a different workflow engine than Camunda 7 - [Zeebe](/components/z
 
 - Uses the Client API (e.g. to start process instances)
 - Implements [service tasks](/components/modeler/bpmn/service-tasks/service-tasks.md), which can be:
-  - [External tasks](/components/best-practices/development/invoking-services-from-the-process-c7.md#external-tasks), where workers subscribe to the engine.
+  - [External tasks](/advice/best-practices/development/invoking-services-from-the-process-c7.md#external-tasks), where workers subscribe to the engine.
   - [Java code attached to a service task](https://docs.camunda.org/manual/latest/user-guide/process-engine/delegation-code/) and called by the engine directly (in-VM).
 
 For example, to migrate an existing Spring Boot application, take the following steps:
