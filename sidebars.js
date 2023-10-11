@@ -615,10 +615,16 @@ module.exports = {
             "advice/poam/vision/executive-support",
             "advice/poam/vision/value",
           ],
-          "Organizational Structure": ["advice/poam/structure/introduction"],
+          "Organizational Structure": [
+            "advice/poam/structure/introduction",
+            "advice/poam/structure/center-of-excellence",
+          ],
           Technology: ["advice/poam/technology/introduction"],
           "Solution Delivery": ["advice/poam/delivery/introduction"],
-          Mesurement: ["advice/poam/measurement/introduction"],
+          Mesurement: [
+            "advice/poam/measurement/introduction",
+            "advice/poam/measurement/business-value",
+          ],
           "Process Orchestration Maturity": [
             "advice/poam/maturity/maturity-levels",
             "advice/poam/maturity/improving-maturity",

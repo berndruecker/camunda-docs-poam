@@ -1,4 +1,10 @@
 ---
+id: advice-overview
 title: Overview
-description: "These practices are condensed experience using BPMN and DMN on the Camunda toolstack, and are a mix of conceptual and practical implementation information."
+sidebar_label: Practical Advice
+slug: /advice/
+description: "Some real-life advice"
+keywords: ["best practices"]
 ---
+
+bla

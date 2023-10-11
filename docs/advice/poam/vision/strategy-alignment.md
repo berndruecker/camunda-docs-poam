@@ -37,6 +37,10 @@ Having clarity around those goals allows you to connect the benefits or porcess 
 
 - Cut costs:
 
+You might be interested to check [value proposition](../value) for details on typical values gained by using Camunda.
+
+TODO: o become a hyperautomated utility company, because they are severely suffering from talent shortage, which will get even worse due to demographic change (they will lose 30% of their workforce by 2035).
+
 ## Workshops
 
 To align strategy, you need to:
